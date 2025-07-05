@@ -1,0 +1,9 @@
+requests
+pandas
+tweepy
+spacy
+streamlit
+plotly
+
+.\venv\Scripts\activate
+pip freeze > requirements.txt

@@ -1,0 +1,7 @@
+VIRUSTOTAL_API_KEY = "your_virustotal_api_key_here"
+ABUSEIPDB_API_KEY = "your_abuseipdb_api_key_here"
+TWITTER_API_KEY = "your_twitter_api_key_here"
+TWITTER_API_SECRET = "your_twitter_api_secret_here"
+TWITTER_ACCESS_TOKEN = "your_twitter_access_token_here"
+TWITTER_ACCESS_TOKEN_SECRET = "your_twitter_access_token_secret_here"
+OTX_API_KEY = "your_alienvault_otx_api_key_here"
