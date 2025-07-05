@@ -22,12 +22,12 @@ This project builds an AI Agent to collect and enrich Indicators of Compromise (
 `python -m spacy download en_core_web_sm`
 
 4. Create a config.py file from config_template.py and add your API Keys:  
-VIRUSTOTAL_API_KEY = "your_virustotal_api_key"
-ABUSEIPDB_API_KEY = "your_abuseipdb_api_key"
-TWITTER_API_KEY = "your_twitter_api_key"
-TWITTER_API_SECRET = "your_twitter_api_secret"
-TWITTER_ACCESS_TOKEN = "your_twitter_access_token"
-TWITTER_ACCESS_TOKEN_SECRET = "your_twitter_access_token_secret"
+`VIRUSTOTAL_API_KEY = "your_virustotal_api_key"`
+`ABUSEIPDB_API_KEY = "your_abuseipdb_api_key"`
+`TWITTER_API_KEY = "your_twitter_api_key"`
+`TWITTER_API_SECRET = "your_twitter_api_secret"`
+`TWITTER_ACCESS_TOKEN = "your_twitter_access_token"`
+`TWITTER_ACCESS_TOKEN_SECRET = "your_twitter_access_token_secret"`
 
 5. Run the main script:  
 `python main.py`
